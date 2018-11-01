@@ -1,0 +1,7 @@
+com/dsl/kafka/producer/ProducerWrapper$1.class
+com/dsl/kafka/consumer/Consumer.class
+com/dsl/kafka/producer/ProducerRunner.class
+com/dsl/kafka/producer/ProducerWrapper.class
+com/dsl/kafka/consumer/ConsumerRunner.class
+com/dsl/kafka/producer/Producer.class
+com/dsl/kafka/consumer/ConsumerWrapper.class
