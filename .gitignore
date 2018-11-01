@@ -1,0 +1,4 @@
+kafka_demo/out
+kafka_demo/target
+kafka_demo/.idea
+kafka_demo/kafka_demo.iml
