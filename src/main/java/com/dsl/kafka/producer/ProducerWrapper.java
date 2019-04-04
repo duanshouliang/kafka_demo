@@ -8,7 +8,7 @@ import org.apache.kafka.clients.producer.RecordMetadata;
 import java.util.Properties;
 
 /**
- * Created by slsir on 2018/11/1.
+ * Created by duanshuliang on 2018/11/1.
  */
 public class ProducerWrapper {
     private String topic;
